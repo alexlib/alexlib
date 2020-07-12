@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I’m looking to collaborate on open source particle image and particle tracking velocimetry, github.com/openpiv and github.com/openptv
+- 👯 I’m looking to collaborate on open source particle image and particle tracking velocimetry, https://github.com/openpiv and https://github.com/openptv
 - 🤔 I’m looking for help with serverless fluid flow measurement software
