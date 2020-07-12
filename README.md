@@ -1,4 +1,6 @@
-### Hi there 👋
+### Alex Liberzon 👋
+
+*experimental fluid mechanics* is my profession and passion
 
 <!--
 **alexlib/alexlib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m looking to collaborate on open source particle image and particle tracking velocimetry, github.com/openpiv and github.com/openptv
+- 🤔 I’m looking for help with serverless fluid flow measurement software
