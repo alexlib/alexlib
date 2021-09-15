@@ -1,4 +1,6 @@
-### Alex Liberzon 👋
+### Alex Liberzon 👋 
+
+If you like what I do, you're welcome to donate a cup of coffee :) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1684YE)
 
 *experimental fluid mechanics* is my profession and passion
 
